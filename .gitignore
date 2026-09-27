@@ -1,5 +1,3 @@
-# Large raw data files (multi-hundred MB TSV files exceed GitHub's strict 100MB limit)
-*.tsv
 
 # Secrets & Environment
 github.env
