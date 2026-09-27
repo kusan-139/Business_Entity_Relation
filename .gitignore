@@ -1,9 +1,5 @@
-# Large datasets (multi-GB files not allowed on GitHub standard repos)
+# Large raw data files (multi-hundred MB TSV files exceed GitHub's strict 100MB limit)
 *.tsv
-dataset/
-**/dataset/
-output/
-**/output/
 
 # Secrets & Environment
 github.env
